@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\world\\collision\\partition\\quadtree\\quadtree.ixx",
+        "ProvidedModule": "quadtree",
+        "ImportedModules": [
+            "aabb"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33428\\include\\vector"
+        ]
+    }
+}

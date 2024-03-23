@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\world\\collision\\sat\\query_info.ixx",
+        "ProvidedModule": "query_info",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

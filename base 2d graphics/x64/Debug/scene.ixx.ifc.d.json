@@ -1,0 +1,56 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\world\\scene.ixx",
+        "ProvidedModule": "scene",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "glm",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\glm.ixx.ifc"
+            },
+            {
+                "Name": "rendering",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\renderer.ixx.ifc"
+            },
+            {
+                "Name": "camera",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\camera.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\glm.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\glm.hpp_PGRT7K9YQ4RNROX7.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtc\\matrix_transform.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\matrix_transform.hpp_7AFRDTSVOVZ1WR9Q.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtc\\type_ptr.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\type_ptr.hpp_1OMW54SP4ZTZN7OJ.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\matrix_interpolation.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\matrix_interpolation.hpp_2LB0MESU2R6V0YT6.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\norm.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\norm.hpp_TZPL6W2CMTR773WV.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\string_cast.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\string_cast.hpp_E65CCVS81433BMY6.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\set",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\set_3DRNHGADYE4ICR2P.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\memory",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\memory_WWFSQ0E7X8RS3TPN.ifc"
+            }
+        ]
+    }
+}

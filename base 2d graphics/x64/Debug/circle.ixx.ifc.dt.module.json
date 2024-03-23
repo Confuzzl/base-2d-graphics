@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\world\\collision\\shapes\\circle.ixx",
+        "ProvidedModule": "circle",
+        "ImportedModules": [
+            "collider",
+            "glm"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

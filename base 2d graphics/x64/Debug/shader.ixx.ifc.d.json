@@ -1,0 +1,80 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\gl_wrapper\\shader.ixx",
+        "ProvidedModule": "shader",
+        "Includes": [
+            "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\util\\gl.h",
+            "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glfw\\glfw3.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\stddef.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt.h",
+            "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\vadefs.h",
+            "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\stdint.h",
+            "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glad\\glad.h",
+            "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\khr\\khrplatform.h"
+        ],
+        "ImportedModules": [
+            {
+                "Name": "vector",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vector.ixx.ifc"
+            },
+            {
+                "Name": "debug",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\debug.ixx.ifc"
+            },
+            {
+                "Name": "glm",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\glm.ixx.ifc"
+            },
+            {
+                "Name": "buffer_objects",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\buffer_objects.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\stdexcept",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\stdexcept_GMJNT9NCYO7YZWCH.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\vector",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vector_VIVUU0THJFQIGABZ.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\format",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\format_6S06JH3WD1N6G4D4.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\iostream",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\iostream_5CAVKCPX3W1KO7JM.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\glm.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\glm.hpp_PGRT7K9YQ4RNROX7.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtc\\matrix_transform.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\matrix_transform.hpp_7AFRDTSVOVZ1WR9Q.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtc\\type_ptr.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\type_ptr.hpp_1OMW54SP4ZTZN7OJ.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\matrix_interpolation.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\matrix_interpolation.hpp_2LB0MESU2R6V0YT6.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\norm.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\norm.hpp_TZPL6W2CMTR773WV.ifc"
+            },
+            {
+                "Header": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\string_cast.hpp",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\string_cast.hpp_E65CCVS81433BMY6.ifc"
+            }
+        ]
+    }
+}

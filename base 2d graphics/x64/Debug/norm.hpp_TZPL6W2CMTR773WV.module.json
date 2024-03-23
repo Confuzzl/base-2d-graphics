@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "base 2d graphics\\x64\\Debug\\norm.hpp_TZPL6W2CMTR773WV.obj",
+            "outputs": [
+                "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vc143.pdb",
+                "base 2d graphics\\x64\\Debug\\norm.hpp_TZPL6W2CMTR773WV.module.json",
+                "base 2d graphics\\x64\\Debug\\norm.hpp_TZPL6W2CMTR773WV.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtx\\norm.hpp",
+                    "source-path": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\norm.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

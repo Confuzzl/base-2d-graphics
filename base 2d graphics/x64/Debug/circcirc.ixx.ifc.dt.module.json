@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\world\\collision\\sat\\circcirc.ixx",
+        "ProvidedModule": "circcirc",
+        "ImportedModules": [
+            "circle",
+            "query_info",
+            "glm"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

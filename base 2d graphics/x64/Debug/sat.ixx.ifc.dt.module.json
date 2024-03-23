@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\world\\collision\\sat\\sat.ixx",
+        "ProvidedModule": "sat",
+        "ImportedModules": [
+            "query_info",
+            "collider",
+            "debug"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

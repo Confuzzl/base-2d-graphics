@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\util\\func.ixx",
+        "ProvidedModule": "func",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "vector",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vector.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\vector",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vector_DB6EC55BE2867C5C.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\functional",
+                "BMI": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\functional_13F6DF408C607CE2.ifc.dt"
+            }
+        ]
+    }
+}

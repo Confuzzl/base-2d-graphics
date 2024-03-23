@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "base 2d graphics\\x64\\Debug\\screen.ixx.obj",
+            "outputs": [
+                "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vc143.pdb",
+                "base 2d graphics\\x64\\Debug\\",
+                "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\screen.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "screen",
+                    "source-path": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\util\\screen.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "glm"
+                }
+            ]
+        }
+    ]
+}

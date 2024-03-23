@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "base 2d graphics\\x64\\Debug\\matrix_interpolation.hpp_2LB0MESU2R6V0YT6.obj",
+            "outputs": [
+                "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vc143.pdb",
+                "base 2d graphics\\x64\\Debug\\matrix_interpolation.hpp_2LB0MESU2R6V0YT6.module.json",
+                "base 2d graphics\\x64\\Debug\\matrix_interpolation.hpp_2LB0MESU2R6V0YT6.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtx\\matrix_interpolation.hpp",
+                    "source-path": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\matrix_interpolation.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "base 2d graphics\\x64\\Debug\\type_ptr.hpp_1OMW54SP4ZTZN7OJ.obj",
+            "outputs": [
+                "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vc143.pdb",
+                "base 2d graphics\\x64\\Debug\\type_ptr.hpp_1OMW54SP4ZTZN7OJ.module.json",
+                "base 2d graphics\\x64\\Debug\\type_ptr.hpp_1OMW54SP4ZTZN7OJ.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtc\\type_ptr.hpp",
+                    "source-path": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtc\\type_ptr.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

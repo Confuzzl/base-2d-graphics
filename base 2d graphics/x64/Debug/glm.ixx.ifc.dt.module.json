@@ -1,0 +1,16 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\src\\util\\glm.ixx",
+        "ProvidedModule": "glm",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\glm.hpp",
+            "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtc\\matrix_transform.hpp",
+            "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtc\\type_ptr.hpp",
+            "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtx\\string_cast.hpp",
+            "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtx\\matrix_interpolation.hpp",
+            "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\Libraries\\include\\glm\\gtx\\norm.hpp"
+        ]
+    }
+}

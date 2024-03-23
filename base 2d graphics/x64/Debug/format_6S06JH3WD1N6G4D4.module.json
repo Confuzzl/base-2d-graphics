@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "base 2d graphics\\x64\\Debug\\format_6S06JH3WD1N6G4D4.obj",
+            "outputs": [
+                "C:\\Users\\fuzzl\\Downloads\\dev\\code\\visual studio\\base 2d graphics\\base 2d graphics\\x64\\Debug\\vc143.pdb",
+                "base 2d graphics\\x64\\Debug\\format_6S06JH3WD1N6G4D4.module.json",
+                "base 2d graphics\\x64\\Debug\\format_6S06JH3WD1N6G4D4.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33428\\include\\format",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33428\\include\\format",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
