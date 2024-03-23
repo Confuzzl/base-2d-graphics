@@ -1,9 +1,0 @@
-{
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\fuzzl\\downloads\\dev\\code\\visual studio\\base 2d graphics\\libraries\\include\\glm\\gtx\\matrix_interpolation.hpp",
-        "ProvidedModule": "",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
